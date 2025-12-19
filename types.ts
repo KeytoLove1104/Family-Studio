@@ -50,8 +50,3 @@ export interface FamilyMember {
         app: string;
     };
 }
-
-export interface FamilyMember {
-    name: string;
-    avatar: string;
-}
